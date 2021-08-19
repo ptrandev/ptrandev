@@ -13,7 +13,7 @@
 Hi, I'm Phillip.
 
 I am an honors student at Boston University studying computer science. I'm
-currently working at Atllas, Inc. as a consultant.
+currently working at Atllas, Inc. as a full stack developer.
 
 Within the world of software enginneering, I am most interest in crafting
 beautiful, functional web applications and developing robust, adaptable
