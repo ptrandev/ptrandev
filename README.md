@@ -13,10 +13,10 @@
 Hi, I'm Phillip.
 
 I am a graduate student at Boston University studying computer science. I'm
-currently working at Atllas, Inc. as a full stack developer, where I develop
+currently working at Atllas, Inc. as Head of Product, where I develop
 tools that enable billions of dollars worth of real estate transactions.
 
-Within the world of software engineering, I am most interest in crafting
+Within the world of software engineering, I am most interested in crafting
 beautiful, functional web applications and developing robust, adaptable
 computer vision systems for robots. Check out my personal projects here.
 
